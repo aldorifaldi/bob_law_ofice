@@ -1,0 +1,150 @@
+body,
+body.boxed-wrapper .page-wrapper,
+.feature-one__single-inner,
+.about-one__right,
+.why-choose-one__img-shape-1,
+.project-one__content,
+.testimonial-one__client-info {
+    background-color: var(--vibnt-black);
+}
+
+.counter-one__content-box,
+.testimonial-one__content,
+.services-one__wrap,
+.brand-one__inner,
+.faq-one::before,
+.contact-one__inner,
+.contact-one__inner::before,
+.main-menu__btn,
+.main-menu__top {
+    background-color: #1b1c20;
+}
+
+.counter-one__title-box,
+.counter-one__content-box:before,
+.testimonial-one,
+.project-one__btn,
+.site-footer {
+    background-color: #141519;
+}
+
+.main-menu__wrapper-inner {
+    background-color: rgba(var(--vibnt-black-rgb), .90);
+}
+
+.main-slider__bg {
+    background-size: contain;       /* supaya gambar full terlihat */
+    background-repeat: no-repeat;   /* biar tidak tile */
+    background-position: center;    /* biar selalu center */
+     margin-top: 150px;   /* sesuaikan dengan tinggi header */
+}
+
+
+.main-menu .main-menu__list>li>a,
+.stricky-header .main-menu__list>li>a,
+.main-menu .main-menu__list>li.dropdown>a:after,
+.main-menu__search,
+.main-menu__cart,
+.main-menu__contact-list li .text p,
+.main-menu__contact-list li .text p a,
+.feature-one__title a,
+.feature-one__btn,
+.section-title__title,
+.about-one__points li .content h4 a,
+.counter-one__title,
+.counter-one__count h3,
+.counter-one__count-letter,
+.why-choose-one__content-text,
+.why-choose-one__progress-title,
+.why-choose-one__progress .count-text,
+.project-one__title a,
+.blog-one__title a,
+.blog-one__btn-box a {
+    color: var(--vibnt-white);
+}
+
+.main-menu .main-menu__list>li.current>a::after,
+.main-menu .main-menu__list>li:hover>a::after,
+.stricky-header .main-menu__list>li.current>a::after,
+.stricky-header .main-menu__list>li:hover>a::after {
+    color: var(--vibnt-base);
+}
+
+.main-menu__cart:before {
+    background-color: rgba(var(--vibnt-white-rgb), .15);
+}
+
+.feature-one__shape-1 {
+    filter: grayscale(1);
+}
+
+.feature-one__icon {
+    border: 1px solid rgba(var(--vibnt-white-rgb), .15);
+    background-color: var(--vibnt-black);
+}
+
+.about-one__points li .icon {
+    background-color: #1b1c20;
+}
+
+.about-one__points li .icon span {
+    color: var(--vibnt-base);
+}
+
+.why-choose-one__content-box {
+    border: 1px solid rgba(var(--vibnt-white-rgb), .10);
+}
+
+.team-one__single::before {
+    border: 1px solid rgba(var(--vibnt-white-rgb), .18);
+}
+
+.testimonial-one__ratting-box::before {
+    background-color: rgba(var(--vibnt-white-rgb), .15);
+}
+
+.testimonial-one__ratting-box::after {
+    background-color: rgba(var(--vibnt-white-rgb), .15);
+}
+
+.testimonial-one__shape-1 img {
+    filter: invert(1);
+}
+
+.blog-one__content {
+    border: 1px solid rgba(var(--vibnt-white-rgb), .15);
+    border-bottom: 0;
+}
+
+.blog-one__btn-and-date {
+    border: 1px solid rgba(var(--vibnt-white-rgb), .15);
+    border-top: 0;
+}
+
+.testimonial-one__shape-3 img {
+    filter: grayscale(1);
+}
+
+.site-footer__bg {
+    opacity: 0.02;
+    mix-blend-mode: luminosity;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  */
